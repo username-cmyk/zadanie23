@@ -1,0 +1,7 @@
+# Ignoruj pliki binarne i wykonywalne
+*.o
+*.exe
+*.out
+
+# Ignoruj pliki generowane przez IDE (np. Visual Studio Code)
+.vscode/
